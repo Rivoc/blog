@@ -1,5 +1,2 @@
 # blog
-# blog
-# blog
-# blog
-# blog111
+this is my first commit.
